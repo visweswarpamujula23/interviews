@@ -1,0 +1,52 @@
+1.you are in mphasis or you are searching for company ??
+
+2.How much percentage of you work you spent into development or you get pre-written testcases ??
+
+3.what exactly you work here ??
+
+4.what is the role exactly you are doing in the project ??
+
+5.whre you execute the testcase is it some CI pipeline which are picking up these testcases directly or you have some manual driver or where you have to push the testcases ??
+
+6.how you execute testcases so you have any accesble file which you run it or you have some CI pipelines which you invoked given, regression are given, timeline will invoke automatically or where execution starts ??
+
+7.once you use commandline execution doe sit have some batch which runs ??
+
+8.what is the commandline which you give ??
+
+9.why you are using commandline and what is the advantage ?
+
+10.what advantage while using commandline over a tool ??
+
+11.what is your project that you worked on ??
+
+12.how the end users are working ??
+alpha, Beta
+
+13.Give you overview of project ??
+
+14.what is the source or target and what is about your workflow ??
+
+15.what is your project and for which what you are automate ??
+
+16.In your project what is the functionalities ??
+
+17.It is mobile application or web application I want to know about that ??
+
+18.If it is a web application then what it do ??
+
+19.you have basic kowledge on testing, sql, agile, software develpement life cycle process ??
+
+20.Expalin testing life cycle process ??
+
+21.tell me where you write testcases ??
+
+22.can you open the notepad and draw the archetecture of framework ??
+
+23.have you heard about maven ??
+
+24.why we use pip ??
+
+25.I have to update specific version of nodejs using pip how can you do it ??
+
+26.After installation using pip what is -g and -h ??

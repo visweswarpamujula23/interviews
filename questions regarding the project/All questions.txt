@@ -1,0 +1,65 @@
+1.Introduce youself with your roles and responsibilities? and work experiance?
+
+2.have you know about tests like smoke or reggresion test?
+
+3.how do you connect to api?
+
+4.what issue you have occur in project?
+
+5.what do test on memory devices?
+
+6.are you purely working on python automation from past 3years
+
+7. you worked on your own framework 
+
+8. what kind of work you do in python
+
+9.if test cases are written in c,c++, do you execute the testcases in different server
+
+10.tell me basic structure of any script which is build on paramiko,to access and transfer .exe files
+
+11.you are working with storage right, can you tell me what kind of work do with the storage
+
+12.can you tell me how do you open the file
+
+13.did you work on DB
+
+14.can you explain about XPATH
+
+15.Have you used a locator for automation
+
+16.what's the exact usage of pytest in automation
+
+17.If any testcases is fail if it is a test issue then what you do?
+
+18.what do you use memory devies for?
+
+19.What are the test cases you are testing and what is the function of that test case give any example?
+
+20.As you are a Python Automation Engineer, how did you do automation without using selenium?
+
+21.Exactly what do you do with test cases on memory devices?
+
+22.where do you test these testcases?
+
+23.what is the test flow in your framework and for example I have a submit button to click on a U.I what is the flow, how you will go ahead in your framework ??
+
+24.what that cover in your testcases ??
+
+25.Brief about the application you are testing ??
+
+26.what are you doing in your testcases ??  --> environmental staibilization
+
+27.How are the results generated after testing ??  --> openpyxl
+
+28.what is the criteria to fail a testcase ??  --> precondtion, setup(skip), workload,run(fail), teardown(fail), post condition
+
+29.how did you approach if test fails?
+
+30.you have a testcase where it which you have to run on multiple browsers in same testcase you have to run on firefox and chrome, how will you do it ??
+
+31.you want to pass a password and username in your test method, how will you do it?
+
+32.what errors you executing a testcase 
+
+33.I have a submit button to click on a webpage in a testbox username and password is there, I will give the username and don't give the password and finally I have written to click submit button, so what are happen ??

@@ -1,0 +1,47 @@
+1.what is use of remoteng?
+
+2.what is subprocess?
+
+3.what is the use of paramiko
+
+4.what are the basic types in python
+
+5.What is decorator?
+
+6.Can you tell me what is the difference between shallow copy and deep copy?
+
+7.Can you explain about generator?
+
+8.Can you tell me about list comprehension?
+
+9.When you use regex module?
+
+10.Have you use match and search funtion?
+
+11.Can you explain difference between searchand match function?
+
+12.What is the difference between multiple and multilevel inheritance?
+
+13.Say what is your aproch of a list contains many numbers i want second largest number with out using builtin methods in python?
+
+14.What is singleton function?
+
+15.Coming to some students related knowledge what are protocols you worked on tata or anyother?
+
+16.datatypes in python and dict data types
+
+17.diff btw list and tuple
+
+18.diff btw mutable and immutable
+
+19.explian about request module
+
+20.explain about functional testing.
+
+21.what are you validating ??
+
+22.How to print only duplicates characters ??
+
+23.How you prioritze testcases in pytest ??
+
+24.

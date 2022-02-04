@@ -1,0 +1,59 @@
+														INTERVIEW-1
+
+1. Please show me your id?
+2. Tell me about yourself?
+3. Explain the project you are working on?
+4. How many projects did you worked?
+4. As you are a Python Automation Engineer, how did you do automation without using selenium?
+5. Exactly what do you do with test cases on memory devices?
+6. where do you test these testcases?
+
+
+
+                                                        INTERVIEW-2
+1.what is the framework you are using and what is the test scenario
+
+2.you are doing in day to day deliverables??
+
+3.	jira,agile, communicate
+	AHM - all Head meet
+
+4.what is the test flow in your framework and for example I have a submit button to click on a U.I what is the flow,
+  how you will go ahead in your framework ??
+
+5.what is the tests you are doing ??
+
+6.what that cover in your testcases ??
+
+
+7.what is the application you are testing ??
+
+8.Brief about the application you are testing ??
+
+9.what are you working in python ??
+
+10.what are you validating ??
+
+11.what are you doing in your testcases ??  --> environmental staibilization
+
+12.How are the results generated after testing ??  --> openpyxl
+
+13.what is the criteria to fail a testcase ??  --> precondtion, setup(skip), workload,run(fail), teardown(fail), post condition
+
+14.how did you approach if test fails?
+
+15.print "validation done", write a decorator to this statement ??
+
+16.How to remove duplicates in an array ??
+
+17.How to print only duplicates characters ??
+
+18.How you prioritze testcases in pytest ??
+
+19.you have a testcase where it which you have to run on multiple browsers in same testcase you have to run on firefox and chrome, how will you do it ??
+
+20.you want to pass a password and username in your test method, how will you do it?
+
+21.what errors you executing a testcase ??
+
+22.I have a submit button to click on a webpage in a testbox username and password is there, I will give the username and don't give the password and finally I have written to click submit button, so what are happen ??

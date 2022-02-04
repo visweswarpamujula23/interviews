@@ -1,0 +1,37 @@
+1.How are you ??
+
+2.what is your work location ??
+
+3.how was the climate here and corona how is there ??
+
+4.how is your day ??
+
+5.what/any programming you did today ??
+
+6.which tool you are used to automate ??
+
+7.what is the version of pytest and it is the updated one ??
+
+8.which IDE you are using ??
+
+9.you know about robot framework ??
+
+10.what you are automating ??
+
+11.can you write a small script to open a browser and close it using pytest ??
+
+12.Do you know about regex ??
+
+13.Do you know map and what map do ??
+
+14.what is the difference between map and filter ??
+
+15.do you know class and please tell the unbound method ??
+
+16.what is the difference between object and class ??
+
+17.what is the difference between public method and private method ??
+
+18.can I use private method in another class ??
+
+19.Do you know git and please can you write the commands what are you do after adding a file to the git ??

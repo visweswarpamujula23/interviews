@@ -1,0 +1,25 @@
+1.introduce yourself
+
+2.what is use of remoteng?
+
+3.what is subprocess?
+
+4.what do you use memory devies for?
+
+5.how will you rate on python?
+
+6.write program on list find sum of highest last three nums?
+
+7.write program count of char in a string?
+
+8.write a program on reverse a string?
+
+9.have you know about tests like smoke or reggresion test?
+
+10.how do you connect to api?
+
+11.what issue you have occur in project?
+
+12.what do test on memory devices?
+
+13.how much time do you take to learn selenium

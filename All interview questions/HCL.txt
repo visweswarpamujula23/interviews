@@ -1,0 +1,55 @@
+1.Briefly introduce about yourself and which are the projects you havebeen working on ??
+
+2.curently you are working with micron right ??
+
+
+3.how you are train  yourself to in this particular work ??
+
+4.SOP, K.T
+
+5.what kind of test cases that you are train to automate ??
+
+6.Give me an example of a testcase ??
+
+7.what is the thing you are testing ??
+
+8.what you are train to test  or automate ??
+
+9.what you are train to test for this micron company ??
+
+10.what automation you are train to do ??
+
+11.you have to test something, i have to understand what you are train to test ??
+
+12.what qtest is testing ??
+
+13.How would you rate yourself in python?? 3.75/5
+
+1.25 -->  Meta programming, thread synchronization
+
+14.what are the key difference between python 2.0 and 3.0 ??
+
+15.what is the difference between range and xrange ??
+
+16.what is the difference between iterator and generator ?? and which is memory efficient ??
+
+17.what happens in the generator if it goes beyond the range ??
+
+18.which will throw error generator or xrange ??
+
+19.what are python namespaces ??
+
+20.how do you define a private namespace ??
+
+21.what is the basic difference between list and tuple ??
+
+22.Do you know what is list comprehension and give an example ??
+
+23.what is the epic use of list comprehensions ??
+
+you have any questions ??
+
+screening  --> LWD, ASAP
+Technical  --> smooth talk, sugar coated words, feedback
+Managerial --> smooth talk, sugar coated words, feedback
+HR --> recording
