@@ -1,0 +1,12 @@
+1. tell me about yourself
+2. do you have any idea about how to design and develop framework
+3. difference between python and c 
+4. do you know oops concept
+5. difference between function and methods
+6. difference between list, tuple, dictionary
+7. explain about lambda function
+8. can you explain about decorators
+9. as you mentioned that you are using paramiko , tell me about that and advantages when compare with other
+10.what types of testings you have used currently in your project
+11. if you find any defects which tool you are using for logging the defects
+12. can explain about defect life cycle

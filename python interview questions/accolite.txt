@@ -1,0 +1,13 @@
+introduce yourself
+what is use of remoteng?
+what is subprocess?
+what do you use memory devies for?
+how will you rate on python?
+write program on list find sum of highest last three nums?
+write program count of char in a string?
+write a program on reverse a string?
+have you know about tests like smoke or reggresion test?
+how do you connect to api?
+what issue you have occur in project?
+what do test on memory devices?
+how much time do you take to learn seleni

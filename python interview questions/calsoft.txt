@@ -1,0 +1,9 @@
+tell your work experience
+datatypes in python
+diff btw list and tuple
+diff btw mutable and immutable
+explian dict datatypes
+program on string "this is calsoft interview", output = "interview calsoft is this"
+program on list take two list and display duplicate value
+explian about request module
+explain about functional testi

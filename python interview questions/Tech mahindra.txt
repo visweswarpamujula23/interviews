@@ -1,0 +1,19 @@
+Briefly explain about project? 
+
+What is dictionary in python?
+
+What is list and tuple?
+
+What is the concept use to develope arrays in python?
+
+Can you explain oops concept in python?
+
+What is multi level inheritance?How is the flow?
+
+What is multiple inheritance?
+
+What is MRO?
+
+What is method overiding?
+
+Write a program of traiangle pattern?

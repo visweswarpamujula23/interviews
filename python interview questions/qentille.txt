@@ -1,0 +1,46 @@
+                                                     Technical round:1
+
+introduce yourself
+expalin decorators
+program on decorators
+program on count char in string
+explain list comprehesion
+write a program on list comprehesion
+write program on lambda function
+why pytest is familiar what is diff btw pytest and other test modules
+what are markers ?
+what is group testing?
+write a program on fixtures?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                      Technical round:2
+													  
+													  
+													  
+introduce yourself?
+explain about project?
+how you worked on agile methodology?
+you said sprint is two weeks you have not resolved issue how you can handle?
+take a sutitation you and another person taken a project and he not agreeing with you how could you convince him?
+if you have selenium project how your going to handle the project and deadline is 3 months?
+have you participated in scrum meetings?
+what is your strength?
+what are pros of your organisation?
+what are cons of your organisation?
+are you have any certifications?
+do you have any offers?

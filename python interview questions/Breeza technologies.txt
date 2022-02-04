@@ -1,0 +1,29 @@
+Introduce youself with your roles and responsibilities?
+
+Explain breifly about project?
+
+If any test cases is fail if it is a test issue then what you do?
+
+What are the test cases you are testing and what is the function of that test case give any example?
+
+What is decorator?
+
+Can you tell me what is the difference between shallow copy and deep copy?
+
+Can you explain about generator?
+
+Can you tell me about list comprehension?
+
+When you use regex module?
+
+Have you use match and search funtion?
+
+Can you explain difference between searchand match function?
+
+What is the difference between multiple and multilevel inheritance?
+
+Say what is your aproch of a list contains many numbers i want second largest number with out using builtin methods in python?
+
+What is singleton function?
+
+Coming to some students related knowledge what are protocols you worked on tata or anyother?
