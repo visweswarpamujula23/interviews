@@ -1,0 +1,55 @@
+                                             08-04-2022 spanidea (5/10)
+
+introduce yourself and about your project
+
+you are doing automation using python right?
+
+msv is an framework?
+
+what it will basically do? can you explain.
+
+what is the purpose of paramiko?
+
+apart from automationyou are doing anything?
+
+crate new file. what operations you done on file handling ?
+
+in how many modes you can open a file? different modes in opening a file?
+
+i want to use open function in python. what type of modes it will support?
+
+what all parameters open function take
+
+write any open function that you will use in your project?
+
+can you write what type of operations you done with open function.
+
+what are different modes in file opening
+
+What is the purpose of binary mode?
+
+What is type casting?
+
+What are built python built in data types?
+
+What is the difference between list and tuple?
+
+write example for to create an list and to create an tuple?
+
+in tuple how can we change the values?
+
+how we can find the length of the tuple?
+
+what are differnt operations you did in the project?
+
+you will write the code to automate?
+
+for what purpose you will use the github?
+
+how many lines of code you have been written in your project?
+
+for what purpose you got the revward you mentioned in the resume?
+
+what do you understand by the sprint?
+
+what is sprint model?
