@@ -1,0 +1,10 @@
+                                   calsoft technical interview(2/10)
+
+
+two values should be taken from the user and first value will be devided by the second value
+
+take two inputs from the user. if user input sring means program need to terminate other wise program need to execute.
+
+write program to match the name in the file using the regular expressions.
+
+do you have any knowledge in android?

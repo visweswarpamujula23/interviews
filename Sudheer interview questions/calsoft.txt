@@ -1,0 +1,38 @@
+                     calsoft technical interview(5/10)
+
+What exactly you do as a part of project team member?
+
+What is the usage of your product? what the end user you will do?
+
+what will this software will do which you are using?
+
+what type of test cases you will write?
+
+What kind of execution issues you will find during testing?
+
+from four years you are working in the same project?
+
+how do you rate your self in python out of 10?
+
+what is the difference betwen scripting language and programming language?
+
+you are aware of tuples and lists?
+
+what is the difference between list and tuple?
+
+python will have muti thred concept?
+
+how do you initiate two threds at one time?
+
+do you never use negitive indxes?
+
+explain about negitive indexes.
+
+can you explain inheritance.
+
+write the program to open the file and read the file and close the file.
+
+there will be text file open the text file and search for the any name if the name is available means print the name otherwise print the name is not avilable.
+
+JSON library will be used for?
+
