@@ -1,0 +1,28 @@
+                                       11-04-2022 Terralogic(4/10)
+									   
+- explain about you.
+
+- The automation you will with selenium?
+
+- When you will do the automation in your project?
+
+- The API testing you will do is the manual or automatio testing?
+
+- Explain about inheritance?
+
+- Explain about polymorphism?
+
+- is it mandatory for every funtion to write return funtion?
+
+- Pytest you wil use for unit testing?
+
+- String split and String slice?
+
+- how will you copy an object?
+
+- Explain about package and how do you create an package
+
+- Explain about decorators
+
+I/P = [1,2,3,4,56,67,-1,-2,-3,-4,-56,-67]
+o/p = [1,-1,2,-2,3,-3,4,-4,56,-56,67,-67]

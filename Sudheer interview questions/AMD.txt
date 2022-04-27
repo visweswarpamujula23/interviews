@@ -1,0 +1,23 @@
+							AMD india private limited(21-04-2022) (5/10)
+			
+-	can you introduce yourself
+
+-	How do you rate your self india
+
+-	can you exaplain your contributon and roles and responsibilities in your project
+
+-	What is your contributonin coding in your project
+
+-	Remove duplicates from the list
+
+-	reverse the integer with out converting into the string
+
+-	(print the repeted word by using dictionarys) by the following sentance
+
+-	Bettly bought a bit of butter But the butter was so bitter so she bought some better butter	to make the bitter butterbetter
+
+-	Create a parent class such that it has two integers as instance attributes and define addition and substraction methods.
+	Create a child class and define multiplication and division methods.
+	initialize an object of child class and print the values returned by all the methods.
+			
+	

@@ -1,0 +1,38 @@
+										wipro -25-04-2022(5/10)
+										
+					
+- can you introduce your self
+
+- do you develop the fremework or do you develop the test script
+
+- can you tell an example that you recently worked on
+
+- basic python modules youhave been worked on
+
+- can you configure jenkins
+
+- what is pylent hats its use
+
+- what is the idle score you will getting by pylent
+
+- are you aware on numpy,pandas
+
+- what is openpyxl
+
+- re module you will be used for which purpose in your project
+
+- by using the reqular expressions print the result
+	
+	- string = abs{bsc} sdfg asd fhgjkdk {bscd} fhgj {abshd} shdh
+	 output= (bsc bscd abshd)
+	 
+	 
+	- '1,2,3,3,3,3,2,1'
+	o/p: 1:2 , 2:2 ,3:4
+	
+- how pycharm and API will interlink 
+
+- did develop any rest APIs 
+
+- are you good with seqential query languages?
+

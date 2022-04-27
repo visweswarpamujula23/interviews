@@ -1,0 +1,15 @@
+														Wipro-2022(5/10)
+														
+-	Can you tell me about yourself.
+
+-	can much you will rate yourself in python for 5.
+
+-	program to convert the nested dictionary to flatted dictionary
+
+-	what does oops consists?
+
+-	how many types of inheritance are there?
+
+-	construct a sample calculator using oops concept (taken 3 classes)
+														
+														
