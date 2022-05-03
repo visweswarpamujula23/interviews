@@ -1,0 +1,20 @@
+											sreetechinc(4/10)-27-04-2022
+
+
+-	Introduce yourself.
+
+-	You have hands on python coding in your project right.
+
+-	what is the product which you are automating.
+
+-	how you will do the automation for hardware devices.
+
+-	give an example that you will use in your project
+
+-	write some lines of code you will use in the project
+
+-	Write one test case you have handled in your project.
+
+-	program:open one text file and print the words starting with letter "w"
+
+-	What commands you will use in day to day life
