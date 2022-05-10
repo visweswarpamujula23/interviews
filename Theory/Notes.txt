@@ -1,0 +1,47 @@
+Operations that can be performed on the lists:
+	-append()
+	-extend()
+	-insert()
+	-remove()
+	-pop()
+	-slice
+	-reverse()
+	-len()
+	-min() & max()
+	-count()
+	-concatenate-
+	-multiply
+	-index()
+	-sort()
+	-clear()
+	
+Operations that can be performed on strings?
+	-lower()						:Converts a string to the lowercase letter.
+	-upper()						:Converts a string to the uppercase letter.
+	-islower() / isupper()			:Checks if the whole string is in lower case or upper case and returns bool value respectively.
+	-startswith()					:Returns a bool value. Check if the given string starts with a particular text.
+	-endswith()						:Returns a bool value. Check if the given string ends with a particular text.
+	-join()							:Join different strings to make a single concatenated string.
+	-split()						:Reverse of join(). It splits a large string into smaller strings.
+	-strip()/ lstrip()/ strip()		:Removes whitespaces(space, tab and newline) from left side(lstrip()), right side(rstrip()) and from both sides(strip()).
+	-ljust()/ rjust()/ center()		:ljust() fills the fill char on the left side, rjust() fills the fill char on the right side, and center() justifies the text at the center, filling the fill char at both left and right sides.
+	-index()						:index() method finds the first occurrence of a particular character or text in the given string.
+	-count()						:counts the total number of occurrences of a character in the given string.
+	-find()							:find() method is similar to index() method. It also returns the index for the first occurrence.
+	-replace()						:It replaces a text with another text in the given string.
+	
+Operations that can be performed on dictionary.
+	
+	-clear()		:Removes all the elements from the dictionary
+	-copy()			:Returns a copy of the dictionary
+	-fromkeys()		:Returns a dictionary with the specified keys and value
+	-get()			:Returns the value of the specified key
+	-items()		:Returns a list containing a tuple for each key value pair
+	-keys()			:Returns a list containing the dictionary's keys
+	-pop()			:Removes the element with the specified key
+	-popitem()		:Removes the last inserted key-value pair
+	-setdefault()	:Returns the value of the specified key. If the key does not exist: insert the key, with the specified value
+	-update()		:Updates the dictionary with the specified key-value pairs
+	-values()		:Returns a list of all the values in the dictionary
+
+		
