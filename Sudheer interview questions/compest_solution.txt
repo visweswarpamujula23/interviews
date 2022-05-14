@@ -1,0 +1,15 @@
+- Can you breif about yourself
+
+- Are you trying to debug the test cases?
+
+- you will analyze the code?
+
+- How will you rate youself in python out of 10
+
+- list1 = [10,20,30,40,20,10,30,50]
+
+	-print duplicate elements with the index
+	
+- usr_input = "my name is sudheer"
+
+	o/p: my name is reehdus
