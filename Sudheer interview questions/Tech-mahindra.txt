@@ -1,0 +1,55 @@
+										Tech-mahindra(5/10)
+
+
+- Introduce yourself
+
+- What framework you will use?
+
+- What is python and features of python?
+
+- What are datatypes in python?
+
+- What is mutable and immutable datatypes in python?
+
+- What is difference between list and tuple?
+
+- Usecase for list and tuple? where we will use list and where we will use tuple?
+
+- How we can convert list into tuple?
+
+- Write a program for converting list into tuple and tuple into list..
+
+- Write a code for removing the duplicates from the list
+
+- What is decorator?
+
+- Why we will use decorator?
+
+- Write the code for decorator..
+
+- What is python namespaces?
+
+- What is closure?
+
+- What is django?
+
+- What python libraries you will use in the project?
+
+- What is test-ng framework?
+
+- What is pytest?
+
+- How to write the test cases in the python?
+
+- What is rest API?
+
+- What are the methods available in the rest API
+
+- What is put and post methods in python?
+
+- How we can get the response from the API?
+
+- What are the responses you are getting from API?
+
+- What is request module and request header?
+										
