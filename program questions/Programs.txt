@@ -1,0 +1,112 @@
+write program on list find sum of highest last three nums?
+
+write program count of char in a string?
+
+write a program on reverse a string?
+
+max and min value from the list.
+
+Say what is your aproch of a list contains many numbers i want second largest number with out using builtin methods in python?
+
+program on string "this is calsoft interview", output = "interview calsoft is this"
+
+program on list take two list and display duplicate value
+
+print "validation done", write a decorator to this statement??
+
+How to remove duplicates in an array ??(removes duplicates in array)
+
+Input ⇒ Welcome Yagna!  ,   given input string should be reversed, but the condition is that last
+                            special character and space between the words should be in its
+                            index position even after reversing the string
+ this is the expected output
+Output ⇒ angaYem ocle
+
+write a code that all 0's in the list should move to right-side , list_1= [8,0,0,65,79,0,21,0,0,0,54,12]
+
+string= "ffgyytuuugg" write a code to print that first unique character and position of that character
+
+list_1 = [1,2,10,3,4,2,5,6,8,9,11] write a code to print second largest number from the list
+
+list_1= [1,2,5,3,9,5,26,53,95,] , output should be the list and first index should be divided by second like respectively
+
+list_1= [1,2,5,3,9,5,26,53,95,] print output in reverse order
+
+can you tell me how do you open the file
+
+max and min value from the list
+
+write a program to check multiple palindrome's at a time 
+
+write a program for validating a email address using re module
+
+list=["a","b","c","d"] reverse the list
+
+insert an element in the list
+
+write a program to reverse the string
+
+string_1="12345LKJHNMS@!@#$5" print numbers from the string
+
+dict_1={1:2,2:4,3:6,4:8} write a program for swapping keys as values and viceversa
+
+print unique elements from the list
+
+write a program on Regex , how we search a pattern using Regex
+
+what is grouping in Regex
+
+Read 5 integer numbers using a single statement,without using loops
+
+print a given word 5 times, with loop and without using loop
+
+printing pattern 
+
+			1
+          5 3 1
+         7 5 3 1
+        9 7 5 3 1
+		
+
+write program on list find sum of highest last three nums?
+
+write program count of char in a string?
+
+write a program on reverse a string?
+
+program on string "this is calsoft interview", output = "interview calsoft is this"
+
+program on list take two list and display duplicate value
+
+program on count char in string
+
+write a program on list comprehesion
+
+write program on lambda function
+
+write a program on fixtures?
+
+Take nested dictonary dict_1 = {"a": 1, "b": 2, "c":3, "d":{"f":4, "r":5, "g": 6}, "f":{"g":5}} i want value 6?
+
+Repeated count of values in list_1 = [1,2,1,3,2,4,2,4,4,3,3,4]?
+
+Write function, pass an arugument as string in that count vowels?
+
+Write function, pass an arugument as string in that count consonats?
+
+Write the both functions in a class?
+
+program on string "this is calsoft interview", output = "interview calsoft is this"
+
+program on list take two list and display duplicate value
+
+write a program in left right angle triangle?
+
+Write a program to find the no of bits in an interger and Get the position of a particular bit 
+
+Hexadecimal to binary
+
+Write a program reverse string logic. 
+
+l1=[[1,2,3],[4,5,6],[7,8,9]] 
+   Output= [[1,4,7],[2,5,8],[3,6,9]]

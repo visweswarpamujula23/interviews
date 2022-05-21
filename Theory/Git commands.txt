@@ -1,0 +1,27 @@
+git config : This command sets the author name and email address respectively to be used with your commits.
+
+git init : This command is used to start a new repository.
+
+git clone : This command is used to obtain a repository from an existing URL.
+
+git add : This command adds a file to the staging area.
+
+git commit : This command records or snapshots the file permanently in the version history.
+
+git diff : This command shows the file differences which are not yet staged.
+
+git reset : This command unstages the file, but it preserves the file contents.
+
+git status : This command lists all the files that have to be committed.
+
+git rm : This command deletes the file from your working directory and stages the deletion.
+
+git log : This command is used to list the version history for the current branch.
+
+git branch : This command lists all the local branches in the current repository.
+
+git checkout : This command is used to switch from one branch to another.
+
+git push : This command sends the committed changes of master branch to your remote repository.
+
+git pull : This command fetches and merges changes on the remote server to your working directory.

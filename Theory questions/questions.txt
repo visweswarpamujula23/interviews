@@ -1,0 +1,403 @@
+explain about lambda function
+
+explain about lambda expression
+
+take a string your name count the char by using lambda function?(form in dict)
+
+Explain about regression testing and rerun
+
+At what point you do the regression testing
+
+can you explain about generator with an example
+
+what is the difference between iterator and generator ?? and which is memory efficient ??
+
+what happens in the generator if it goes beyond the range ??
+
+which will throw error generator or xrange ??
+
+what are packages/libraries you have used
+
+difference between list & tuple
+
+between tuple and list what is more faster and why & which one takes more memory
+
+do you have any idea how python storing the object in memory
+
+what is the basic difference between array and list
+
+difference between pop(),remove() in list
+
+how was memory managed in python
+
+what do you meant by abstract class
+
+use of __init__ method
+
+difference multi_level & multiple inheritance 
+
+python is called as interpreted language how do you justify that
+
+what is namespace in python and why we use it
+
+what is module and packages in python
+
+what is ananynomous function in python
+
+in slicing we are using negative index or -1 in python, why do we use that
+
+if you are having a python file what mode you use to execute that file
+
+in oops there is a super keyword, why we are using that
+
+in python if i have to copy a object, which function we are going to use 
+
+what is PYTHONPATH in python
+
+python has specifiers/access specifiers, any example
+
+there is garbage collection in python, can you explain how it works
+
+difference between function and methods
+
+as you mentioned that you are using paramiko , tell me about that and advantages when compare with other	
+
+can explain about defect life cycle
+ 
+pros and cons of python
+ 
+what is PEP8
+ 
+what is pip
+
+can we install multiple versions of python in one system
+
+do you know about ananymous function
+
+does map() work with only list or any data type
+
+if we apply map() for tuple , what's the output datatype
+
+what is zip() 
+
+what does the dir() function do
+
+what does the enumarate function do
+
+what is packing and unpacking
+
+how many arguments does the range function expect
+
+what are the oops concepts you worked actually
+
+explain about the abstraction method
+
+what are the immutable collections in python
+
+what are the operations we can perform for the tuple
+
+if i want to add additional data to the tuple, how can i do that one , is there any way to add 
+
+list contains duplicate elements, i want to find out , each element how many duplicates is there
+
+1how can i append the list1 to list2
+
+what is the difference between remove and delete, how it will works
+
+what are the frameworks used in automation
+
+have you used pytest, you are having experience in pytest framework, what are basic rules to write the testcases for pytest framework
+
+what is the usage of paramiko
+
+give me the command to connect the remote machine using paramiko
+
+what is an iterator
+
+how many types of inheritance are there in python
+
+what is super
+
+for what purpose we use paramiko
+
+can explain about oops concepts
+
+can explain difference between method overriding and method overloading
+
+what is the difference between abstract class and interface
+
+what is the use of list
+
+what is list and dictionary comprehension
+
+instead of for loop can you write list comprehension
+
+what is the epic use of list comprehensions ??
+
+what is the difference between inheritance and composition
+
+what is the abstraction
+
+can you explain about oops concepts
+
+where do you used inheritance in your project
+
+what are access specifiers
+
+what is abstract class 
+
+what are the different data types are in python
+
+in which place tuple can be used
+
+what is mean by slicing give me some example
+
+what are the different functions in Regex
+
+how you import packages
+
+when your folder become a package
+
+show me how to import re
+
+how you import date function
+
+I want to import in os package, i want to import some particular class, how will you do it
+
+what are the packages available in the os
+
+how will you check that classes, functions available in os
+
+In given string vowels should be replaced with numbers, do it with for loop and Regex
+
+what are the modules you have used in automation
+
+what are the functions available in paramiko
+
+using paramiko can you login to the same device
+
+what is the framework you used, can you explain the process how it works
+
+you are working in request module, how will you generate API, to login to google.com 
+ 
+what is the API calling function which you used
+
+what are the functions available in request module
+
+Have you worked with multi-threading concept, what are the methods available in it
+
+what are the steps to push a code in to the repository
+
+Have you used winscp, whats's purpose of it
+
+what is negative index in python
+ 
+If you want to read int from the user, which statement you use
+ 
+explain about fixtures in pytest
+
+what are markers
+
+can you explain your current framework
+
+what are the basic types in python
+
+tell me difference between break and continue
+
+what is use of remoteng?
+
+what is subprocess?
+
+what do you use memory devies for?
+
+how will you rate on python?
+
+have you know about tests like smoke or reggresion test?
+
+diff btw mutable and immutable
+
+explian dict datatypes
+
+explian about request module
+
+explain about functional testing
+
+why pytest is familiar what is diff btw pytest and other test modules
+
+what are markers ?
+
+what is group testing?
+
+latest version python and sub version?
+
+feature of python?
+
+cons in python?
+
+what is namespaces?
+
+what pip?
+
+in above program key and value should be in list of tuples?
+
+what is use of enum?
+
+insert an element in tuple?
+
+what is unpacking and packing?
+
+what group of element assign to varible separated by comma what is the type?
+
+what is shallow copy and deep copy?
+
+what is self in oops?
+
+can we any name instead of self?
+
+what is empty class?
+
+what is constuctor? write a program?
+
+what is destructor? write a program?
+
+can you define own destructor?
+
+what is inheritance?
+
+super() and class name they doing same thing but why there are two methods?
+
+explain method overloading and method overriding?
+
+what is polymphroism?
+
+what is enscapulation? write a program?
+
+have you worked on postman?
+
+how can you know memory is mount or not?
+
+how will you check file intergrity?
+
+tell me about negative testing?
+
+What is positional and keyword arguments?
+
+Tell me about inheritance?
+
+Write a program on inheritance have above two functions?
+
+Create a another file, how to get function from previous file?
+
+What is debug could you please explain?
+
+Can you explain decorator with an example
+
+can you write with any custom decorator
+
+Apart from regression testing, what type of testing you are doing?
+
+what is white and blck box testing?
+
+What is priority and severity in jira?Which has first preference?
+
+What are data structure avalible in python?
+
+What are dynamic and static data structures?
+
+explian about request module
+
+explain about functional testing
+
+What is docstring?
+
+between tuple and list what is more faster and why & which one takes more memory
+
+what is the basic difference between array and list
+
+what is namespace in python and why we use it
+
+write an example for list and dictionary comprehension and explain
+
+what is module and packages in python
+
+what is ananynomous function in python
+
+in slicing we are using negative index or -1 in python, why do we use that
+
+if you are having a python file what mode you use to execute that file
+
+in oops there is a super keyword, why we are using that
+
+in python if i have to copy a object, which function we are going to use 
+
+what is PYTHONPATH in python
+
+python has specifiers/access specifiers, any example
+
+there is garbage collection in python, can you explain how it works
+
+how to add elements in list?
+
+how to place element in particular position?
+
+tell me about os module?
+
+what are methods in that?explain briefly?
+
+how to delete folder?
+
+what is varible arguments?
+
+explain a example of varialbe arugments?
+
+how to import a file?
+
+how can access a particlar class in a imported file?
+
+can you write a class using any module?
+
+how to access a file in different directory?
+
+os and subprocess are similar?
+
+how can you give commands in subprocess?
+
+how you worked on agile methodology?
+
+Write a program reverse string logic. 
+
+Write a swap program by using function method. 
+
+Write a program by using class with create two objects. 
+
+Reverse a string with logic
+
+Explain.singleton class and its properties
+
+Difference between list and set
+
+Fubctional and non-functional testing
+
+What is regression and retesting
+
+What is regression issue
+
+what is the thing you are testing ??
+
+what is the difference between range and xrange ??
+
+what are python namespaces ??
+
+how do you define a private namespace ??
+
+what is the basic difference between list and tuple ??
+
+what is the difference between object and class ??
+
+what is the difference between public method and private method ??
+
+can I use private method in another class ??
+
+Do you know git and please can you write the commands what are you do after adding a file to the git ??
+
+Expalin testing life cycle process ??

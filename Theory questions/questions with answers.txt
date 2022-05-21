@@ -1,0 +1,99 @@
+1.what is use of remoteng?
+
+	-Python script to decrypt passwords stored by mRemoteNG
+	-Simple multi-remote web interface for LIRC setups. (Linux Infrared remote control)
+
+2.what is subprocess?
+
+	- It is used to run new applications or programs through Python code by creating new process.
+
+3.what is the use of paramiko
+
+	-Paramiko is a Python library that makes a connection with a remote device through SSh.
+
+4.what are the basic types in python
+
+	-Numeric,Sequence type, boolean , set , Dictionary
+	
+5.What is decorator?
+
+	 -It allows programmers to modify the behaviour of function or class.
+
+6.Can you tell me what is the difference between shallow copy and deep copy?
+
+	-A shallow copy constructs a new compound object and then (to the extent possible) inserts references into it to the objects found in the original.
+	-A deep copy constructs a new compound object and then, recursively, inserts copies into it of the objects found in the original.
+
+7.Can you explain about generator?
+
+	- In python generators are simple way of creating iterators
+	- Generator is a function that returns an object (iterator) which we can iterate over (one value at a time).
+
+8.Can you tell me about list comprehension?
+
+	-It is a very concise way to create a new list by performing an operation on each item in the existing list.
+
+9.When you use regex module?
+
+	- To match the sting in the project **
+
+10.Have you use match and search funtion?
+
+11.Can you explain difference between search and match function?
+
+	- Search checks for a match anywhere in the string
+	- Match checks for a match only at the beginning of the string, 
+
+12.What is the difference between multiple and multilevel inheritance?
+
+	- Multiple Inheritance is when a class inherits from many base classes
+	- Multilevel Inheritance is when a class inherits from a derived class making that derived class a base class for a new class.
+
+13.Say what is your aproch of a list contains many numbers i want second largest number with out using builtin methods in python?(program)**
+
+14.What is singleton function?
+
+	-Singleton is a creational design pattern, which ensures that only one object of its kind exists and provides a single point of access to it for any other code.
+
+15.Coming to some students related knowledge what are protocols you worked on tata or anyother? **
+
+16.datatypes in python and dict data types
+
+	Text Type:	str
+	Numeric Types:	int, float, complex
+	Sequence Types:	list, tuple, range
+	Mapping Type:	dict
+	Set Types:	set, frozenset
+	Boolean Type:	bool
+	Binary Types:	bytes, bytearray, memoryview
+	None Type:	NoneType
+	
+	-Any type of value can be used as a dictionary key in Python.
+
+17.diff btw list and tuple
+
+	- Tuples are immutable objects the lists are mutable.
+	- list is time taken process compare to tuple in the time of iteration
+	- List consume more memory compare to tuple
+	
+
+18.diff btw mutable and immutable
+
+	- An object whose internal state can be changed is mutable.
+	-immutable doesn't allow any change in the object once it has been created
+
+19.explian about request module
+
+	-requests module allows us to send HTTP requests using Python.
+
+20.explain about functional testing.
+
+	-Functional test checks the code from beginning to end
+
+21.what are you validating ??
+
+22.How to print only duplicates characters ??
+
+23.How you prioritze testcases in pytest ??
+
+	-
