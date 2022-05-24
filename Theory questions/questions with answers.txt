@@ -1,63 +1,120 @@
-1.what is use of remoteng?
+- what is use of remoteng?
 
 	-Python script to decrypt passwords stored by mRemoteNG
 	-Simple multi-remote web interface for LIRC setups. (Linux Infrared remote control)
 
-2.what is subprocess?
+- what is subprocess?
 
-	- It is used to run new applications or programs through Python code by creating new process.
+	-- It is used to run new applications or programs through Python code by creating new process.
+	-- Popen() method is used to give the command and we will get the output.
+	-- It helps to obtain the stdin/stdout/stderr/return code as well as the exist codes of various commands
+	-- syntax: output = subprocess.run("ping www.google.com", stdout=subprocess.PIPE, encoding="utf-8", shell=True)
+	-- We have run method in subprocess:
+	   - First argument is input/command
+	   - Second argument is output of the command
+	   - Third argument is Encoding (bytes to string)
+	   - Next it will check the shell(as python program to execute this command on command prompt)
+	   - It will check whether it is stdout/stderr /return code 
+	   - return always should be non-zero, it means command executed successfully.
 
-3.what is the use of paramiko
+- what is the use of paramiko
 
-	-Paramiko is a Python library that makes a connection with a remote device through SSh.
+	-- To transfer a file from local server to remote server & vice-versa using paramiko module in python
+	-- On windows to install paramiko  we will use , pip install paramiko in command prompt
+	-- SSH is the method typically used to access a remote machine and run commands, retrieve files or upload files.
+	-- You can transfer files using SFTP (Secure File Transfer Protocol) and SCP(Secure Copy Protocol).
+	-- MAKING A CONNECTION : 
+			import paramiko
+			ssh_client=paramiko.SSHClient()
+			ssh_client.connect(hostname=’hostname’,username=’username’,password=’mypassword’,port='')
 
-4.what are the basic types in python
+	-- Downloading a file from remote machine
+
+			sftp_client=ssh_client.open_sftp()
+			sftp_client.get(‘remotefileth’,’localfilepath’)
+			sftp_client.close()
+			
+			
+	-- Uploading file from local to remote machine
+			sftp_client=ssh.open_sftp()
+			sftp_client.put(‘localfilepath’,remotefilepath’)
+			sftp_client.close()
+
+
+- what are the basic types in python
 
 	-Numeric,Sequence type, boolean , set , Dictionary
 	
-5.What is decorator?
+- What is decorator?
 
-	 -It allows programmers to modify the behaviour of function or class.
+	 - A decorator in Python is a function that takes another function as its argument, and returns yet another function.
+	 - Decorators can be extremely useful as they allow the extension of an existing function, without any modification to the original function source code.
+	 - This is also called metaprogramming because a part of the program tries to modify another part of the program at compile time.
+	 
+	 Example:
+		def first(msg):
+			print(msg)
 
-6.Can you tell me what is the difference between shallow copy and deep copy?
+
+		first("Hello")
+
+		second = first
+		second("Hello")
+	
+	 O/P:
+		Hello
+		Hello
+		
+- Can you tell me what is the difference between shallow copy and deep copy?
 
 	-A shallow copy constructs a new compound object and then (to the extent possible) inserts references into it to the objects found in the original.
 	-A deep copy constructs a new compound object and then, recursively, inserts copies into it of the objects found in the original.
 
-7.Can you explain about generator?
+- Can you explain about generator?
 
 	- In python generators are simple way of creating iterators
 	- Generator is a function that returns an object (iterator) which we can iterate over (one value at a time).
+	- The generator function cannot include the return keyword.
 
-8.Can you tell me about list comprehension?
+- Can you tell me about list comprehension?
 
 	-It is a very concise way to create a new list by performing an operation on each item in the existing list.
+	
+	Example:
+	 - In the following example print letter "a" in the name.
+	 
+		fruits = ["apple", "banana", "cherry", "kiwi", "mango"]
 
-9.When you use regex module?
+		newlist = [x for x in fruits if "a" in x]
 
-	- To match the sting in the project **
+		print(newlist)
+		
+	O/P:
+	   ['apple', 'banana', 'mango']
+		
 
-10.Have you use match and search funtion?
+- When you use regex module?
 
-11.Can you explain difference between search and match function?
+	- We will use the regular expression for matching purpose in our project.
+	- A regular expression is used to match strings of text such as particular characters, words, or patterns of characters.
+	
+- Have you use match and search funtion?
+
+- Can you explain difference between search and match function?
 
 	- Search checks for a match anywhere in the string
 	- Match checks for a match only at the beginning of the string, 
 
-12.What is the difference between multiple and multilevel inheritance?
+- What is the difference between multiple and multilevel inheritance?
 
 	- Multiple Inheritance is when a class inherits from many base classes
 	- Multilevel Inheritance is when a class inherits from a derived class making that derived class a base class for a new class.
 
-13.Say what is your aproch of a list contains many numbers i want second largest number with out using builtin methods in python?(program)**
-
-14.What is singleton function?
+- What is singleton function?
 
 	-Singleton is a creational design pattern, which ensures that only one object of its kind exists and provides a single point of access to it for any other code.
 
-15.Coming to some students related knowledge what are protocols you worked on tata or anyother? **
-
-16.datatypes in python and dict data types
+- datatypes in python and dict data types
 
 	Text Type:	str
 	Numeric Types:	int, float, complex
@@ -70,30 +127,45 @@
 	
 	-Any type of value can be used as a dictionary key in Python.
 
-17.diff btw list and tuple
+- diff btw list and tuple
 
 	- Tuples are immutable objects the lists are mutable.
 	- list is time taken process compare to tuple in the time of iteration
 	- List consume more memory compare to tuple
 	
 
-18.diff btw mutable and immutable
+- diff btw mutable and immutable
 
 	- An object whose internal state can be changed is mutable.
 	-immutable doesn't allow any change in the object once it has been created
 
-19.explian about request module
+- explian about request module
 
-	-requests module allows us to send HTTP requests using Python.
+	- Requests module allows us to send HTTP requests using Python.
+	- The HTTP request returns a Response Object with all the response data (content, encoding, status, etc).
+	- When one makes a request to a URI, it returns a response. 
 
-20.explain about functional testing.
+- explain about functional testing.
+	- A functional test is a form of an integration test that runs the Python application “literally.”
+	- Functional test checks the code from beginning to end
+	
+- explain about lambda function
+	
+	-A lambda function is a small anonymous function.
 
-	-Functional test checks the code from beginning to end
+	-A lambda function can take any number of arguments, but can only have one expression.
+	
+	Syntax:
+	
+		- lambda arguments : expression
+	
+	Example:
+		
+		x = lambda a : a + 10
+		print(x(5))
 
-21.what are you validating ??
 
-22.How to print only duplicates characters ??
 
-23.How you prioritze testcases in pytest ??
+
 
 	-
