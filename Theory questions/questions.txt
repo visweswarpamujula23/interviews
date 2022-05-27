@@ -38,6 +38,8 @@ difference multi_level & multiple inheritance
 
 python is called as interpreted language how do you justify that
 
+how do you define a private namespace ??
+
 what is namespace in python and why we use it
 
 what is module and packages in python
@@ -234,8 +236,6 @@ feature of python?
 
 cons in python?
 
-what is namespaces?
-
 what pip?
 
 in above program key and value should be in list of tuples?
@@ -314,8 +314,6 @@ between tuple and list what is more faster and why & which one takes more memory
 
 what is the basic difference between array and list
 
-what is namespace in python and why we use it
-
 write an example for list and dictionary comprehension and explain
 
 what is module and packages in python
@@ -329,8 +327,6 @@ if you are having a python file what mode you use to execute that file
 in oops there is a super keyword, why we are using that
 
 in python if i have to copy a object, which function we are going to use 
-
-what is PYTHONPATH in python
 
 python has specifiers/access specifiers, any example
 
@@ -385,10 +381,6 @@ What is regression issue
 what is the thing you are testing ??
 
 what is the difference between range and xrange ??
-
-what are python namespaces ??
-
-how do you define a private namespace ??
 
 what is the basic difference between list and tuple ??
 

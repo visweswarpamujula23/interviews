@@ -75,6 +75,35 @@
 	- In python generators are simple way of creating iterators
 	- Generator is a function that returns an object (iterator) which we can iterate over (one value at a time).
 	- The generator function cannot include the return keyword.
+	
+- what is the difference between iterator and generator ?? and which is memory efficient ??
+
+	- iterator:
+		- Class is used to implement an iterator
+		- Local Variables aren’t used here. 
+		- Iterators are used mostly to iterate or convert other objects to an iterator using iter() function.
+		- Iterator uses iter() and next() functions 
+		- Every iterator is not a generator
+	- Generator:
+		- Function is used to implement a generator.
+		- All the local variables before the yield function are stored. 
+		- Generators are mostly used in loops to generate an iterator by returning all the values in the loop without affecting the iteration of the loop
+		- Generator uses yield keyword
+		- Every generator is an iterator
+	- Python Generators are more memory efficient
+	
+- what happens in the generator if it goes beyond the range ??
+
+	???
+	
+- What is x-range?
+
+	- In Python 3, there is no xrange, but the range function behaves like xrange in Python 2.
+	- This function returns the generator object that can be used to display numbers only by looping. 
+	
+- which will throw error generator or xrange ??
+
+	???
 
 - Can you tell me about list comprehension?
 
@@ -127,17 +156,43 @@
 	
 	-Any type of value can be used as a dictionary key in Python.
 
-- diff btw list and tuple
+- difference between list and tuple
 
 	- Tuples are immutable objects the lists are mutable.
 	- list is time taken process compare to tuple in the time of iteration
 	- List consume more memory compare to tuple
 	
+- what is the basic difference between array and list
 
-- diff btw mutable and immutable
+	List:
+		- Can consist of elements belonging to different data types
+		- No need to explicitly import a module for declaration
+		- Cannot directly handle arithmetic operations
+		- Can be nested to contain different type of elements
+		- Preferred for shorter sequence of data items
+		- Greater flexibility allows easy modification (addition, deletion) of data
+		- The entire list can be printed without any explicit looping
+		- Consume larger memory for easy addition of elements
+		
+	Array:
+		- Only consists of elements belonging to the same data type
+		- Need to explicitly import a module for declaration
+		- Can directly handle arithmetic operations
+		- Must contain either all nested elements of same size
+		- Preferred for longer sequence of data items
+		- Less flexibility since addition, deletion has to be done element wise
+		- A loop has to be formed to print or access the components of array
+		- Comparatively more compact in memory size
+	
+- difference between mutable and immutable
 
 	- An object whose internal state can be changed is mutable.
 	-immutable doesn't allow any change in the object once it has been created
+	
+- difference between pop(),remove() in list
+
+	- The pop() function is used to return the removed element from the list.
+	- The remove() function removes the first matching value from the list
 
 - explian about request module
 
@@ -149,7 +204,7 @@
 	- A functional test is a form of an integration test that runs the Python application “literally.”
 	- Functional test checks the code from beginning to end
 	
-- explain about lambda function
+- explain about lambda function (or) what is ananynomous function in python
 	
 	-A lambda function is a small anonymous function.
 
@@ -164,8 +219,123 @@
 		x = lambda a : a + 10
 		print(x(5))
 
+- Explain about regression testing and rerun
+
+	-Regression Testing:
+		- Regression testing is a type of testing where you can verify that the changes made in the codebase do not impact the existing software functionality.
+		- Regression testing is responsible for the overall stability and functionality of the existing features.
+	- Types of Regression Tests:
+
+		- Final Regression Tests: - A "final regression testing" is performed to validate the build that hasn't changed for a period of time. This build is deployed or shipped to customers.
+
+		- Regression Tests: - A normal regression testing is performed to verify if the build has NOT broken any other parts of the application by the recent code changes for defect fixing or for enhancement.
+	- Rerun:
+		-The program runs once within main() variable then exits and returns to run the main varible again.
+		
+- do you have any idea how python storing the object in memory
+
+	- Python uses a garbage collection algorithm (called Garbage Collector) that keeps the Heap memory clean and removes objects that are not needed anymore.
+	- Python stores object in heap memory and reference of object in stack.
+	- Variables, functions stored in stack and object is stored in heap.
+	
+- how was memory managed in python?
+
+	- Python uses the dynamic memory allocation which is managed by the Heap data structure.
+	- Memory Heap holds the objects and other data structures that will be used in the program.
+	- Python memory manager manages the allocation or de-allocation of the heap memory space through the API functions.
+	
+@oops
+
+- what do you meant by abstract class?
+
+	- By default, Python does not provide abstract classes
+	- An abstract class can be considered as a blueprint for other classes.
+	- It allows you to create a set of methods that must be created within any child classes built from the abstract class.
+	- A method becomes abstract when decorated with the keyword @abstractmethod
+	
+- use of __init__ method?
+	
+	- The __init__ method is at the core of OOP and is required to create objects.
+	- The __init__  function is called every time an object is created from a class. 
+	- The method is useful to do any initialization you want to do with your object.
+	
+- difference multi_level & multiple inheritance 
+
+	- Multiple Inheritance is when a class inherits from many base classes while Multilevel Inheritance is when a class inherits from a derived class.
+	
+- in oops there is a super keyword, why we are using that?
+
+	- The super() function is used to give access to methods and properties of a parent or sibling class.
+	- The super() function returns an object that represents the parent class.
+	
+- in python if i have to copy a object, which function we are going to use? @@
+
+	- we use = operator to create a copy of an object
+	- You may think that this creates a new object; it doesn't. It only creates a new variable that shares the reference of the original object.
+	
+- python has specifiers/access specifiers, any example @@
+
+	- 
+
+- There is garbage collection in python, can you explain how it works
+
+	- Python deletes unwanted objects (built-in types or class instances) automatically to free the memory space
+	- The process by which Python periodically frees and reclaims blocks of memory that no longer are in use is called Garbage Collection.
+	- The Python Garbage Collector (GC) runs during the program execution and is triggered if the reference count reduces to zero.
+	- There are two ways to perform manual garbage collection: time-based or event-based garbage collection.
+	
+- python is called as interpreted language how do you justify that
+
+	- It goes through an interpreter, which turns code you write into the language understood by your computer's processor.
+	- Interpreted language follows one step to get from source code to execution
+	- An interpreted language is a language in which the implementations execute instructions directly without earlier compiling a program into machine language.
+	
+- what is namespace in python and why we use it?
+
+	- A namespace is a collection of currently defined symbolic names along with information about the object that each name references.
+													(or)
+	- A namespace is a system that has a unique name for each and every object in Python
+	- An object might be a variable or a method.
+	- Python itself maintains a namespace in the form of a Python dictionary.
+	
+	use of namespace in python:
+		- Namespaces help us uniquely identify all the names inside a program
+		- A name also has a scope that defines the parts of the program where you could use that name without using any prefix.
+		- A namespace is a declarative region that provides a scope to the identifiers (the names of types, functions, variables, etc) inside it
+		
+- how do you define a private namespace ??
+	
+	- @@
+	
+- what is module and packages in python (or) difference between python module and python package?
+
+	- Module: 
+		- A module is a pythonic statement which contains multiple functions in it.
+		- Modules act as a pre-defined library in the code, which is accessible to both coder and user.
+		- The python modules also store pre-defined functions from the library while the execution of code is going on.
+		
+	- Package:
+		- A package is the form of a collection of tools which helps in the initiation of the code.
+		- A python package acts as a user-variable interface for any source code.
+		- This makes a python package work at a defined time for any functionable code in the runtime.
+	
+- In slicing we are using negative index or -1 in python, why do we use that? @@
+
+	- It returns the nth element from the right-hand side of the list.
+	- Python programming language supports negative indexing of arrays, something which is not available in arrays in most other programming languages.
+	
+- what is PYTHONPATH in python?
+
+	- Location to set the python.
+	- Pythonpath is an environment variable which the user can set to add additional directories.
+	- To find python path we will use Use sys. path
+	- we can also say that it is an environment variable that you set before running the Python
+	- It is used to set the path for the user-defined modules so that it can be directly imported into a Python program.
+	- It is used to help in importing the modules.
+	- when you import modules in your Python scripts, PYTHONPATH is also checked to see which directories might contain the imported module.
+	- Python PATH  is environment variable
+	- It is also responsible for handling the default search path for Python Modules.
+	- The primary use of this variable is to allow users to import modules that are not made installable yet.
+	
 
 
-
-
-	-
