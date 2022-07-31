@@ -1,0 +1,33 @@
+- breif me abut yourself
+
+- Are you involved in writing the test scripts
+
+- how do you rate yourself in python out of 5
+
+- sort the list of elements without using the for loop
+
+- write the program for given string is palindrome or not
+
+- what is VM ware?
+
+- Have you worked on linux?
+
+- write a program to remove the duplicates from the list?
+
+- with out using the for loop write the program for removing the duplicates from the list?
+
+- What is the command to copy files from one linux machine to another linux machine
+
+- what are the commands you aware on linux?
+
+- What is API?
+
+- Where did you used the postman in your project?
+
+- Did you use the command line or UI for github
+
+- How do you get the latest changes from the master branch?
+
+- how did you get the other code changes into your local machine using github?
+
+- Any experiance using the jenkins?
