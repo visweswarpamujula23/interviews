@@ -1,0 +1,17 @@
+										28-07-2022
+							
+- breif me about your self?
+
+- python program to print the second max
+
+- sort the elements in the list
+
+- I/P = [9,3,2,1,4,4,1,4]
+  O/P = [[9,3,2],[1,4,4],[1,4]]
+
+- what is the difference between list and dict?
+
+- what kind of data you are using in the dict?
+
+
+
